@@ -38,8 +38,16 @@
 * Handling Outlier data
 * Standarized features's value
 ## Churn Prediction
-* Numerical variabel EDA
-* Categorical variabel EDA
-* Modelling with Logistic Regression
-* Modelling with Random Forest Classifier
-* Modelling with Gradient Boost
+### Numerical variabel EDA
+![Figure 1](https://github.com/boxside/Dqlab_Churn_Prediction/blob/main/figure/numeda.png)
+### Categorical variabel EDA
+![Figure 1](https://github.com/boxside/Dqlab_Churn_Prediction/blob/main/figure/cateda.png)
+### Modelling with Logistic Regression
+![train log](https://github.com/boxside/Dqlab_Churn_Prediction/blob/main/figure/trainlog.png)
+![train log](https://github.com/boxside/Dqlab_Churn_Prediction/blob/main/figure/testlog.png)
+### Modelling with Random Forest Classifier
+![train log](https://github.com/boxside/Dqlab_Churn_Prediction/blob/main/figure/trainrf.png)
+![train log](https://github.com/boxside/Dqlab_Churn_Prediction/blob/main/figure/testrf.png)
+### Modelling with Gradient Boost
+![train log](https://github.com/boxside/Dqlab_Churn_Prediction/blob/main/figure/traingb.png)
+![train log](https://github.com/boxside/Dqlab_Churn_Prediction/blob/main/figure/testgb.png)
