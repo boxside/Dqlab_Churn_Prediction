@@ -38,3 +38,8 @@
 * Handling Outlier data
 * Standarized features's value
 ## Churn Prediction
+* Numerical variabel EDA
+* Categorical variabel EDA
+* Modelling with Logistic Regression
+* Modelling with Random Forest Classifier
+* Modelling with Gradient Boost
